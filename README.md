@@ -6,6 +6,9 @@ The app enables a citizen to post a civic-related issue (e.g.; a garbage dump) w
 We can also vote up on any other complaint relevant to us and will get regular updates on status of the complaint in the form of a push notification with the ‘Resolved’ image uploaded by the assigned sanitary inspector/engineer.
 ```
 Sadly the Authority side App got corrupted and after many attempts to restore it I failed. So not uploading the app with Authority side.
+Also the android studio files got corrupted and only the user side apk was saved because I backed it up on drive.
+I have uploaded the jar file for the app, you can use http://jd.benow.ca/#jd-gui-download to open the files.
+Always remember to backup your data 2-3 days of hard work is gone now!
 ```
 
 ## Features
