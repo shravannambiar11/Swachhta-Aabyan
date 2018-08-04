@@ -32,7 +32,7 @@ Always remember to backup your data 2-3 days of hard work is gone now!
 ### Sign Up
 ![alt text](outputs/signup.png| width=100)
 ### Home Page
-![alt text](outputs/home.png| width=100)
+![alt text](outputs/home.png)
 ### Signed in User complaints
 ![alt text](outputs/user_complaint.png| width=100)
 ### Upload Process
