@@ -28,20 +28,20 @@ Always remember to backup your data 2-3 days of hard work is gone now!
 
 ## Screen Shots
 ### Sign in
-![alt text](outputs/signin.png)
+![alt text](outputs/signin.png | width=100)
 ### Sign Up
-![alt text](outputs/signup.png)
+![alt text](outputs/signup.png| width=100)
 ### Home Page
-![alt text](outputs/home.png)
+![alt text](outputs/home.png| width=100)
 ### Signed in User complaints
-![alt text](outputs/user_complaint.png)
+![alt text](outputs/user_complaint.png| width=100)
 ### Upload Process
 * Select Category<br>
-![alt text](outputs/sel_category.png)
+![alt text](outputs/sel_category.png| width=100)
 * Click Picture and Enter Landmark<br>
-![alt text](outputs/submit.png)
+![alt text](outputs/submit.png| width=100)
 ### Check rating and progress of a complaint
-![alt text](outputs/rating.png)
+![alt text](outputs/rating.png| width=100)
 
 
 
