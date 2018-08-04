@@ -33,9 +33,9 @@ Sadly the Authority side App got corrupted and after many attempts to restore it
 ### Signed in User complaints
 ![alt text](outputs/user_complaint.png)
 ### Upload Process
-* Select Category
+* Select Category<br>
 ![alt text](outputs/sel_category.png)
-* Click Picture and Enter Landmark
+* Click Picture and Enter Landmark<br>
 ![alt text](outputs/submit.png)
 ### Check rating and progress of a complaint
 ![alt text](outputs/rating.png)
