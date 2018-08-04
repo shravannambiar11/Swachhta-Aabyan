@@ -1,6 +1,6 @@
 # Swachhta Aabyan
 ```
-This app uses services provided by Firebase such as ,realtime database and authentication.
+This app uses services provided by Firebase such as realtime database and authentication.
 ```
 The app enables a citizen to post a civic-related issue (e.g.; a garbage dump) which is then forwarded to the city corporation concerned and thereafter assigned to the sanitary inspector of the particular ward. For the app to work we need to take a picture of the Civic-related issue using your smartphone, and post it in one of the following categories which includes : 1)Garbage vehicle not arrived 2)Sweeping not done 3)Public toilets blockage and cleaning 4) Absence of water supply & electricity in public toilets.5) Dead animals. The app will capture the location while the picture is being taken. Just type in the landmark of the complaint location. The complaint will then be assigned to the concerned sanitary inspector/engineer.
 We can also vote up on any other complaint relevant to us and will get regular updates on status of the complaint in the form of a push notification with the ‘Resolved’ image uploaded by the assigned sanitary inspector/engineer.
