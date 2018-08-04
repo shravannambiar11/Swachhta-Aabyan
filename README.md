@@ -43,5 +43,5 @@ Always remember to backup your data 2-3 days of hard work is gone now!
 ### Check rating and progress of a complaint
 <img src="outputs/rating.png" width=400 /><br>
 
-
+* For any queries please email me at shravannambiar@gmail.com
 
