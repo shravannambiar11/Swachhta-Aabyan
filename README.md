@@ -28,7 +28,7 @@ Always remember to backup your data 2-3 days of hard work is gone now!
 
 ## Screen Shots
 ### Sign in
-<img src=(outputs/signin.png ) width=45>
+<img src=(outputs/signin.png ) width="45" height="45">
 ### Sign Up
 ![alt text](outputs/signup.png| width=100)
 ### Home Page
